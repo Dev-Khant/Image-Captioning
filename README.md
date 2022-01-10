@@ -22,9 +22,9 @@
 - Loss obtained by model is 0.511. And BLEU score on test data is 0.129
 - Here are 2 examples after training.
 
+<br> ![ex1](https://user-images.githubusercontent.com/57898986/148728626-d85c5ea0-e966-42a0-9689-7fdace11a480.png)
+![Screenshot 2022-01-06 151649](https://user-images.githubusercontent.com/57898986/148728501-4b15fab4-6722-4dee-8cf5-f54f8113acb6.png)
 
-<br> &nbsp; &nbsp; ![ex1](https://user-images.githubusercontent.com/57898986/148728161-4937f8a5-7f10-4355-b660-e650f322f237.png)
-&nbsp; ![Screenshot 2022-01-06 151649](https://user-images.githubusercontent.com/57898986/148727521-b678fec3-2e68-4d1b-a942-b3568b8b7f86.png)
 
 
 
